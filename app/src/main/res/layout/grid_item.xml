@@ -10,16 +10,16 @@
         <ImageView
             android:layout_width="108dp"
             android:layout_height="108dp"
-            android:id="@+id/image_view"
+            android:id="@+id/image_view_grid"
             android:background="@color/cardview_dark_background"
-            android:scaleType="centerCrop"
-            />
+            android:scaleType="centerCrop" />
 
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="IIIT BBSR"
+        android:id="@+id/txt_view_grid"
         android:layout_margin="10dp"
         android:layout_gravity="center"
         android:gravity="center"

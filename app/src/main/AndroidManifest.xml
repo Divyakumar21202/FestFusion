@@ -11,20 +11,25 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Bloodonor"
-        tools:targetApi="31">
+        android:theme="@style/Theme.AppCompat"
+        tools:targetApi="34">
         <activity
-            android:name=".CollegeList"
-            android:exported="false" />
+            android:name=".UploadCollegeInfo"
+            android:exported="false"/>
+
         <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:exported="true"
+            android:theme="@style/Theme.Now.NoActionBar">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
+
     </application>
 
 </manifest>
