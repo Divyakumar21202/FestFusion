@@ -17,9 +17,11 @@ Here are some screenshots to give you a visual overview of how the app works:
 ![image](https://github.com/Divyakumar21202/FestFusion/assets/124331485/8656e80d-7db2-4375-9e98-9a5e6441e0f7)
 
 ### Event Listing
-
+![image](https://github.com/Divyakumar21202/FestFusion/assets/124331485/5452e3db-5aa6-4e3f-bf8a-6c079b4f9039)
 
 ### Upload College Info
+![image](https://github.com/Divyakumar21202/FestFusion/assets/124331485/ff6add4c-ef3f-444c-9e8a-3bf5ab5310d2)
+
 
 
 
